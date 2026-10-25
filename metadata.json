@@ -1,0 +1,6 @@
+{
+  "name": "Stabikid Games - Free Online .IO Games Hub",
+  "description": "Play all the most popular .IO games online for free on Stabikidgames.com! Featuring Slither.io, Agar.io, Diep.io, Paper.io, Krunker, Hole.io, instant playable arenas, multiplayer lobbies, and top browser games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
